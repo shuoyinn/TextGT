@@ -103,4 +103,3 @@ We additionally perform a comparison experiment to show our TextGT constructed i
 ### Credits 
 
 The code and datasets in this repository are based on [DualGCN](https://github.com/CCChenhao997/DualGCN-ABSA), [ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch) and [CDT_ABSA](https://github.com/Guangzidetiaoyue/CDT_ABSA).
-s
